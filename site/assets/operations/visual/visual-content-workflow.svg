@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">视觉内容制作流程示意</title>
+  <desc id="desc">展示从主题梳理到视觉设计、秀米排版和发布复盘的内容工作流。</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#274a39"/>
+      <stop offset="1" stop-color="#56795f"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#0e2116" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="760" rx="34" fill="url(#bg)"/>
+  <text x="72" y="98" fill="#f7f1e8" font-family="Arial,Microsoft YaHei,sans-serif" font-size="29" font-weight="700" letter-spacing="4">VISUAL CONTENT SYSTEM</text>
+  <text x="72" y="166" fill="#f7f1e8" font-family="Arial,Microsoft YaHei,sans-serif" font-size="54" font-weight="800">主题 → 视觉 → 排版 → 发布</text>
+  <text x="76" y="212" fill="#e5eddb" font-family="Arial,Microsoft YaHei,sans-serif" font-size="21">可画 / Photoshop / 秀米 · 从信息整理到可读、可传播的成品</text>
+  <g filter="url(#shadow)">
+    <rect x="66" y="292" width="236" height="260" rx="18" fill="#e4aa94"/>
+    <rect x="330" y="292" width="236" height="260" rx="18" fill="#c7d9a9"/>
+    <rect x="594" y="292" width="236" height="260" rx="18" fill="#f7f1e8"/>
+    <rect x="858" y="292" width="276" height="260" rx="18" fill="#e5c877"/>
+  </g>
+  <g font-family="Arial,Microsoft YaHei,sans-serif" text-anchor="middle">
+    <text x="184" y="372" fill="#274a39" font-size="25" font-weight="800">01</text>
+    <text x="184" y="430" fill="#274a39" font-size="30" font-weight="800">主题梳理</text>
+    <text x="184" y="482" fill="#48614e" font-size="18">场景 · 受众 · 信息结构</text>
+    <text x="448" y="372" fill="#274a39" font-size="25" font-weight="800">02</text>
+    <text x="448" y="430" fill="#274a39" font-size="30" font-weight="800">视觉设计</text>
+    <text x="448" y="482" fill="#48614e" font-size="18">海报 · PPT · 可画</text>
+    <text x="712" y="372" fill="#274a39" font-size="25" font-weight="800">03</text>
+    <text x="712" y="430" fill="#274a39" font-size="30" font-weight="800">互动排版</text>
+    <text x="712" y="482" fill="#48614e" font-size="18">秀米 · 轮播 · 信息卡</text>
+    <text x="996" y="372" fill="#274a39" font-size="25" font-weight="800">04</text>
+    <text x="996" y="430" fill="#274a39" font-size="30" font-weight="800">发布复盘</text>
+    <text x="996" y="482" fill="#48614e" font-size="18">标题 · 封面 · 阅读路径</text>
+  </g>
+  <g stroke="#f7f1e8" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M304 420h20"/><path d="m316 410 12 10-12 10"/>
+    <path d="M568 420h20"/><path d="m580 410 12 10-12 10"/>
+    <path d="M832 420h20"/><path d="m844 410 12 10-12 10"/>
+  </g>
+  <path d="M76 652H1124" stroke="#e5eddb" stroke-opacity=".4" stroke-width="2"/>
+  <text x="76" y="700" fill="#e5eddb" font-family="Arial,Microsoft YaHei,sans-serif" font-size="20">把复杂信息整理成清晰、好看、可继续传播的内容。</text>
+</svg>
